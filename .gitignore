@@ -1,0 +1,11 @@
+/planning
+/backend/venv
+/frontend/node_modules
+.env
+# Python cache files
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+# Ignore .env files in all directories
+**/.env
